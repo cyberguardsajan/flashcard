@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Word Flip Card</title>
+</head>
+<body>
+    <div class="container" id="wordContainer">
+        <div class="card" id="wordCard">
+            <div class="card-inner">
+                <div class="card-front" id="wordDisplay"></div>
+                <div class="card-back" id="detailsDisplay">
+                    <h3 id="meaningDisplay"></h3>
+                    <div class="read-more" id="readMoreButton">Read More</div>
+                    <table id="detailsTable" style="display: none;">
+                        <tr><th>Meaning in Nepali</th><td id="meaningNepaliDisplay"></td></tr>
+                        <tr><th>Sentence</th><td id="sentenceDisplay"></td></tr>
+                        <tr><th>Pronunciation</th><td id="pronunciationDisplay"></td></tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navigation">
+        <button id="prevButton">⬅️</button>
+        <button id="nextButton">➡️</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

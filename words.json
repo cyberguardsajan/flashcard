@@ -1,0 +1,72 @@
+[
+    {
+        "word": "Eloquent",
+        "meaning": "Fluent or persuasive in speaking or writing",
+        "meaningNepali": "प्रभावशाली र स्पष्ट",
+        "sentence": "The speaker delivered an eloquent speech that moved the audience.",
+        "pronunciation": "el·o·quent"
+    },
+    {
+        "word": "Innovate",
+        "meaning": "To introduce new ideas or methods",
+        "meaningNepali": "नयाँ विचार वा विधिहरू प्रस्तुत गर्नु",
+        "sentence": "The company aims to innovate in the field of renewable energy.",
+        "pronunciation": "in·no·vate"
+    },
+    {
+        "word": "Resilient",
+        "meaning": "Able to withstand or recover quickly from difficult conditions",
+        "meaningNepali": "दुष्कर परिस्थितिहरूबाट चाँडै उबरने सक्षम",
+        "sentence": "Children can be remarkably resilient in the face of adversity.",
+        "pronunciation": "re·sil·ient"
+    },
+    {
+        "word": "Meticulous",
+        "meaning": "Showing great attention to detail; very careful and precise",
+        "meaningNepali": "बिवेकी र सटीक",
+        "sentence": "Her meticulous planning ensured the event went off without a hitch.",
+        "pronunciation": "me·tic·u·lous"
+    },
+    {
+        "word": "Ambiguous",
+        "meaning": "Open to more than one interpretation; not having one obvious meaning",
+        "meaningNepali": "अस्पष्ट",
+        "sentence": "The instructions were ambiguous, leading to confusion among the team.",
+        "pronunciation": "am·big·u·ous"
+    },
+    {
+        "word": "Empathy",
+        "meaning": "The ability to understand and share the feelings of another",
+        "meaningNepali": "अन्यको भावना बुझ्न र साझा गर्ने क्षमता",
+        "sentence": "Empathy is crucial for building strong relationships.",
+        "pronunciation": "em·pa·thy"
+    },
+    {
+        "word": "Synthesize",
+        "meaning": "To combine different ideas, influences, or objects into a coherent whole",
+        "meaningNepali": "विभिन्न विचार वा वस्तुहरूलाई मिलाएर एकत्रित गर्नु",
+        "sentence": "The scientist was able to synthesize various theories into a new model.",
+        "pronunciation": "syn·the·size"
+    },
+    {
+        "word": "Candid",
+        "meaning": "Truthful and straightforward; frank",
+        "meaningNepali": "सत्य र स्पष्ट",
+        "sentence": "Her candid feedback was appreciated by her colleagues.",
+        "pronunciation": "can·did"
+    },
+    {
+        "word": "Ubiquitous",
+        "meaning": "Present, appearing, or found everywhere",
+        "meaningNepali": "सर्वव्यापी",
+        "sentence": "Smartphones have become ubiquitous in modern society.",
+        "pronunciation": "yu·bik·wi·tus"
+    },
+    {
+        "word": "Alleviate",
+        "meaning": "To make (suffering, deficiency, or a problem) less severe",
+        "meaningNepali": "कम गर्न",
+        "sentence": "The medication helped alleviate her pain.",
+        "pronunciation": "a·lev·i·ate"
+    }
+]
