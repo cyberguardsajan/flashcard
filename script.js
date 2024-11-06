@@ -89,5 +89,24 @@ document.getElementById("readMoreButton").addEventListener("click", (event) => {
     detailsTable.style.display = detailsTable.style.display === 'table' ? 'none' : 'table';
 });
 
+
+// Pronounce the current word
+document.getElementById("Pronounce").addEventListener("click", () => {
+    const currentWord = words[currentIndex].word;
+    
+    const utterance = new SpeechSynthesisUtterance(currentWord);
+    utterance.lang = 'en-US'; 
+    utterance.rate = 0.9; // normal is 1
+    utterance.pitch = 1;
+    utterance.volume = 1;
+
+    speechSynthesis.speak(utterance);
+});
+
+
+
+
+
+
 // Fetch words on page load
 fetchWords();
