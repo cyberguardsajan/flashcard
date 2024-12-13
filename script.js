@@ -2,7 +2,10 @@ let words = [];
 let currentIndex = 0;
 
 function fetchWords() {
-    fetch('words.json')
+    const setNumber = localStorage.getItem('selectedSet'); // retrieve selected set number from localStorage
+    const fileName = `set${setNumber}.json`; // construct the filename dynamically
+    
+    fetch(fileName)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -10,8 +13,8 @@ function fetchWords() {
             return response.json();
         })
         .then(data => {
-            words = data;
-            displayWord(currentIndex);
+            words = data; // Set the words array to the data from the selected set
+            displayWord(currentIndex); 
         })
         .catch(error => {
             document.getElementById("wordContainer").innerHTML = `<p>Error fetching words: ${error.message}</p>`;
@@ -38,13 +41,11 @@ function displayWord(index) {
     pronunciationDisplay.textContent = words[index].pronunciation;
     partOfSpeechDisplay.textContent = words[index].partOfSpeech;
 
-    // Update the word count display
     wordCount.textContent = `Word ${index + 1} of ${words.length}`;
 
-    // Reset the details table to be hidden when a new word is displayed
     detailsTable.style.display = 'none'; 
 
-    cardInner.style.transform = 'rotateY(0deg)'; // Reset rotation on new word
+    cardInner.style.transform = 'rotateY(0deg)';
 }
 
 // Event listeners
@@ -62,7 +63,6 @@ document.getElementById("nextButton").addEventListener("click", () => {
     }
 });
 
-// Keyboard navigation
 document.addEventListener('keydown', (event) => {
     if (event.key === "ArrowLeft") {
         if (currentIndex > 0) {
@@ -82,21 +82,17 @@ document.getElementById("wordCard").addEventListener("click", () => {
     cardInner.style.transform = cardInner.style.transform === 'rotateY(180deg)' ? 'rotateY(0deg)' : 'rotateY(180deg)';
 });
 
-// Prevent flip on Read More button click
 document.getElementById("readMoreButton").addEventListener("click", (event) => {
     event.stopPropagation();
     const detailsTable = document.getElementById("detailsTable");
     detailsTable.style.display = detailsTable.style.display === 'table' ? 'none' : 'table';
 });
 
-
-// Pronounce the current word
 document.getElementById("Pronounce").addEventListener("click", () => {
     const currentWord = words[currentIndex].word;
-    
     const utterance = new SpeechSynthesisUtterance(currentWord);
     utterance.lang = 'en-US'; 
-    utterance.rate = 0.9; // normal is 1
+    utterance.rate = 0.9; 
     utterance.pitch = 1;
     utterance.volume = 1;
 
@@ -104,9 +100,4 @@ document.getElementById("Pronounce").addEventListener("click", () => {
 });
 
 
-
-
-
-
-// Fetch words on page load
 fetchWords();
