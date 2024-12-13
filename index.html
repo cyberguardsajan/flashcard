@@ -3,34 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Builder</title>
     <link rel="stylesheet" href="styles.css">
-    <title>Word Flip Card</title>
 </head>
 <body>
-    <div class="container" id="wordContainer">
-        <div id="wordCount" class="word-count"></div>
-        <div class="card" id="wordCard">
-            <div class="card-inner">
-                <div class="card-front" id="wordDisplay"></div>
-                <div class="card-back" id="detailsDisplay">
-                    <h2 id="wordDisplayBack"></h2> <!-- Display word on the back -->
-                    <h3 id="meaningDisplay"></h3>
-                    <div class="read-more" id="readMoreButton">Read More</div>
-                    <table id="detailsTable" style="display: none;">
-                        <tr><th>Meaning in Nepali</th><td id="meaningNepaliDisplay"></td></tr>
-                        <tr><th>Sentence</th><td id="sentenceDisplay"></td></tr>
-                        <tr><th>Pronunciation</th><td id="pronunciationDisplay"></td></tr>
-                        <tr><th>Part of Speech</th><td id="partOfSpeechDisplay"></td></tr>
-                    </table>
-                </div>
-            </div>
+
+
+    <div class="container">
+        
+        <h1 class="heading">Vocabulary Builder</h1>
+
+        <div class="button-container">
+            <button class="set-button" onclick="selectSet(1)">Set 1</button>
+            <button class="set-button" onclick="selectSet(2)">Set 2</button>
+            <button class="set-button" onclick="selectSet(3)">Set 3</button>
+            <button class="set-button" onclick="selectSet(4)">Set 4</button>
+            <button class="set-button" onclick="selectSet(5)">Set 5</button>
         </div>
+
+
     </div>
-    <div class="navigation">
-        <button id="prevButton">⬅️</button>
-        <button id="Pronounce">Pronounce</button>
-        <button id="nextButton">➡️</button>
-    </div>
-    <script src="script.js"></script>
+
+    <script>
+
+        // Function to store the selected set number in localStorage and redirect to flashcards page
+
+        function selectSet(setNumber) {
+
+            // Store the selected set number in localStorage
+            localStorage.setItem('selectedSet', setNumber);
+
+
+            // Redirect to the flashcards page
+            window.location.href = "flashcards.html"; 
+        }
+    </script>
 </body>
 </html>
+
