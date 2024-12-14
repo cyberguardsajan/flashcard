@@ -1,154 +1,154 @@
 [
     {
-        "word": "Flounder",
-        "meaning": "Struggle clumsily or be in serious difficulty",
-        "meaningNepali": "छटपटाउनु",
-        "sentence": "Without his glasses, he floundered to read the sign.",
-        "pronunciation": "FLOUN-der",
+        "word": "Deceive",
+        "meaning": "To deliberately cause someone to believe something that is not true",
+        "meaningNepali": "धोका दिनु",
+        "sentence": "He tried to deceive her with false promises.",
+        "pronunciation": "di-SEEVE",
         "partOfSpeech": "Verb"
     },
     {
-        "word": "Dissipate",
-        "meaning": "To scatter or disperse something until it disappears",
-        "meaningNepali": "बिखरिनु, फैलिनु",
-        "sentence": "The morning sun caused the fog to dissipate.",
-        "pronunciation": "DIS-i-payt",
-        "partOfSpeech": "Verb"
-    },
-    {
-        "word": "Mundane",
-        "meaning": "Lacking interest or excitement; very ordinary",
-        "meaningNepali": "सामान्य",
-        "sentence": "She found her mundane tasks quite tedious.",
-        "pronunciation": "mun-DANE",
-        "partOfSpeech": "Adjective"
-    },
-    {
-        "word": "Nudge",
-        "meaning": "A light touch or push, often to draw attention",
-        "meaningNepali": "सामान्य धक्का",
-        "sentence": "He gave me a nudge when it was my turn to speak.",
-        "pronunciation": "NUJDGE",
+        "word": "Burglaries",
+        "meaning": "Illegal entry into a building with intent to commit a crime",
+        "meaningNepali": "गोतीखोरी",
+        "sentence": "There have been several burglaries reported in the neighborhood recently.",
+        "pronunciation": "BUR-gluh-reez",
         "partOfSpeech": "Noun"
     },
     {
-        "word": "Numb",
-        "meaning": "Deprived of the power of sensation",
-        "meaningNepali": "सुन्निनु",
-        "sentence": "After sitting for hours, my legs were completely numb.",
-        "pronunciation": "NUMB",
+        "word": "Tempting",
+        "meaning": "Attractive or appealing, especially in a way that stimulates desire",
+        "meaningNepali": "रुचिकर",
+        "sentence": "The tempting aroma of freshly baked bread filled the kitchen.",
+        "pronunciation": "TEMP-ting",
         "partOfSpeech": "Adjective"
     },
     {
-        "word": "Stink up",
-        "meaning": "To cause to stink or be filled with a stench",
-        "meaningNepali": "दुर्गन्ध फैलाउनु",
-        "sentence": "His wet shoes stunk up the whole room.",
-        "pronunciation": "STINK up",
-        "partOfSpeech": "Verb"
-    },
-    {
-        "word": "Delude",
-        "meaning": "Mislead the mind or judgment of someone",
-        "meaningNepali": "भ्रममा पार्नु",
-        "sentence": "The magician deluded the audience with his tricks.",
-        "pronunciation": "dih-LOOD",
-        "partOfSpeech": "Verb"
-    },
-    {
-        "word": "Remnant",
-        "meaning": "A small remaining quantity of something",
-        "meaningNepali": "अवशेष",
-        "sentence": "Only a remnant of the original structure was visible.",
-        "pronunciation": "REM-nant",
+        "word": "Demeanor",
+        "meaning": "Outward behavior or conduct",
+        "meaningNepali": "व्यवहार",
+        "sentence": "Despite the pressure, she maintained a calm demeanor during the presentation.",
+        "pronunciation": "di-MEE-nor",
         "partOfSpeech": "Noun"
     },
     {
-        "word": "Lavish",
-        "meaning": "Sumptuously rich, elaborate, or luxurious",
-        "meaningNepali": "भव्य",
-        "sentence": "The wedding was a lavish affair; they lavished gifts on the bride and groom.",
-        "pronunciation": "LAV-ish",
+        "word": "Rigorous",
+        "meaning": "Thorough, exhaustive, or strict",
+        "meaningNepali": "कठोर",
+        "sentence": "The rigorous training regimen prepared the athletes for the competition.",
+        "pronunciation": "RIG-er-us",
         "partOfSpeech": "Adjective"
     },
     {
-        "word": "Alleviate",
-        "meaning": "Make (suffering, deficiency, or a problem) less severe",
-        "meaningNepali": "कम गर्नु",
-        "sentence": "She took an aspirin to alleviate the pain.",
-        "pronunciation": "uh-LEE-vee-ayt",
+        "word": "Linger",
+        "meaning": "To stay in a place longer than necessary",
+        "meaningNepali": "देरै समय बिताउनु",
+        "sentence": "The scent of flowers lingered in the air long after she had left.",
+        "pronunciation": "LING-ger",
         "partOfSpeech": "Verb"
     },
     {
-        "word": "Invincible",
-        "meaning": "Too powerful to be defeated or overcome",
-        "meaningNepali": "अजेय",
-        "sentence": "The team seemed invincible after winning all their matches.",
-        "pronunciation": "in-VIN-suh-buhl",
-        "partOfSpeech": "Adjective"
+        "word": "Reluctance",
+        "meaning": "Unwillingness or hesitation to do something",
+        "meaningNepali": "अनिच्छा",
+        "sentence": "She expressed reluctance to join the committee due to her busy schedule.",
+        "pronunciation": "ri-LUK-tuhns",
+        "partOfSpeech": "Noun"
     },
     {
-        "word": "Inherently",
-        "meaning": "In a permanent, essential, or characteristic way",
-        "meaningNepali": "स्वाभाविक रूपमा",
-        "sentence": "There is nothing inherently wrong with his idea.",
-        "pronunciation": "in-HER-ent-lee",
+        "word": "Boast",
+        "meaning": "To talk with pride about one's achievements",
+        "meaningNepali": "गर्व गर्नु",
+        "sentence": "He loves to boast about his achievements.",
+        "pronunciation": "BOAST",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Sanctuary",
+        "meaning": "A place of refuge or safety",
+        "meaningNepali": "आश्रय",
+        "sentence": "The forest serves as a sanctuary for many endangered species.",
+        "pronunciation": "SANK-choo-air-ee",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Embrace",
+        "meaning": "To hold (someone) closely in one's arms, especially as a sign of affection",
+        "meaningNepali": "अँगालो लगाउनु",
+        "sentence": "She embraced her friend tightly after a long separation.",
+        "pronunciation": "em-BRACE",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Fiercely",
+        "meaning": "In an intense, strong, or violent manner",
+        "meaningNepali": "तीव्र रुपमा",
+        "sentence": "She fought fiercely to protect her family.",
+        "pronunciation": "FEER-slee",
         "partOfSpeech": "Adverb"
     },
     {
-        "word": "Starve",
-        "meaning": "Suffer severely or die from hunger",
-        "meaningNepali": "भोकमरी गर्नु",
-        "sentence": "After the long hike, they felt like they were going to starve.",
-        "pronunciation": "STARV",
-        "partOfSpeech": "Verb"
+        "word": "Overwhelmingly",
+        "meaning": "To an extent that is too much to handle",
+        "meaningNepali": "अत्यधिक रुपमा",
+        "sentence": "The response to the new product was overwhelmingly positive.",
+        "pronunciation": "oh-ver-WHEL-ming-lee",
+        "partOfSpeech": "Adverb"
     },
     {
-        "word": "Ineffable",
-        "meaning": "Too great or extreme to be expressed in words",
-        "meaningNepali": "अवर्णनीय",
-        "sentence": "The beauty of the scene was ineffable.",
-        "pronunciation": "in-EF-uh-buhl",
+        "word": "Complementary",
+        "meaning": "Combining in a way that enhances or completes",
+        "meaningNepali": "पूरक",
+        "sentence": "Their skills are complementary, making them an effective team.",
+        "pronunciation": "kom-pleh-MEN-tuh-ree",
         "partOfSpeech": "Adjective"
     },
     {
-        "word": "Obscuration",
-        "meaning": "The action of making something unclear",
-        "meaningNepali": "अस्पष्टिकरण",
-        "sentence": "The dense fog caused obscuration of the mountain peak.",
-        "pronunciation": "ob-SKYOOR-ay-shuhn",
+        "word": "Carcass",
+        "meaning": "The remains of a dead body, especially an animal",
+        "meaningNepali": "शव",
+        "sentence": "The scavengers feasted on the carcass of the deer.",
+        "pronunciation": "KAR-kus",
         "partOfSpeech": "Noun"
     },
     {
-        "word": "Dispel",
-        "meaning": "To make something, especially a belief or feeling, go away",
-        "meaningNepali": "दूर गर्नु",
-        "sentence": "She tried to dispel the rumors about her departure.",
-        "pronunciation": "dis-PEL",
-        "partOfSpeech": "Verb"
+        "word": "Rapturous",
+        "meaning": "Feeling or expressing great joy or enthusiasm",
+        "meaningNepali": "अत्यन्त प्रसन्न",
+        "sentence": "The crowd gave a rapturous applause after the performance.",
+        "pronunciation": "RAP-chur-us",
+        "partOfSpeech": "Adjective"
     },
     {
-        "word": "Cessation",
-        "meaning": "The fact or process of ending or being brought to an end",
-        "meaningNepali": "निरोध",
-        "sentence": "The ceasefire brought a temporary cessation of hostilities.",
-        "pronunciation": "ses-AY-shun",
+        "word": "Vicinity",
+        "meaning": "The area around or near a particular place",
+        "meaningNepali": "वरिपरि क्षेत्र",
+        "sentence": "There are several restaurants in the vicinity of the station.",
+        "pronunciation": "vih-SIN-uh-tee",
         "partOfSpeech": "Noun"
     },
     {
-        "word": "Decipher",
-        "meaning": "To convert (a text written in code) into normal language",
-        "meaningNepali": "शोध्नु",
-        "sentence": "He tried to decipher the ancient manuscript.",
-        "pronunciation": "di-SAI-fer",
-        "partOfSpeech": "Verb"
+        "word": "Awash",
+        "meaning": "Covered or flooded with something, often in abundance",
+        "meaningNepali": "सिँचाइ वा अधिकता सँग",
+        "sentence": "The town was awash with colorful lights during the festival.",
+        "pronunciation": "uh-WASH",
+        "partOfSpeech": "Adjective"
     },
     {
-        "word": "Ponder",
-        "meaning": "To think about (something) carefully",
-        "meaningNepali": "विचार गर्नु",
-        "sentence": "She sat quietly, pondering her next move.",
-        "pronunciation": "PON-der",
-        "partOfSpeech": "Verb"
+        "word": "Extravaganza",
+        "meaning": "A large, elaborate, and spectacular event",
+        "meaningNepali": "भव्य उत्सव",
+        "sentence": "The concert was an extravagant extravaganza with fireworks.",
+        "pronunciation": "ek-struh-VAN-guh-zuh",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Contemporary",
+        "meaning": "Belonging to the present time; modern",
+        "meaningNepali": "समकालीन",
+        "sentence": "The artist’s work is contemporary and reflects today’s society.",
+        "pronunciation": "kon-TEM-poh-rare-ee",
+        "partOfSpeech": "Adjective"
     }
 ]
