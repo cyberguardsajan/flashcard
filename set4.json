@@ -144,6 +144,14 @@
         "partOfSpeech": "Noun"
     },
     {
+        "word": "Abandon",
+        "meaning": "To leave someone or something behind or to give up on it, often suddenly",
+        "meaningNepali": "परित्याग गर्नु",
+        "sentence": "They had to abandon the project due to a lack of funds.",
+        "pronunciation": "uh-BAN-duhn",
+        "partOfSpeech": "Verb"
+    },
+    {
         "word": "Contemporary",
         "meaning": "Belonging to the present time; modern",
         "meaningNepali": "समकालीन",
