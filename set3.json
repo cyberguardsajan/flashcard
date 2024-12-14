@@ -1,0 +1,154 @@
+[
+    {
+        "word": "Promptly",
+        "meaning": "Quickly, without delay",
+        "meaningNepali": "तुरुन्तै",
+        "sentence": "She promptly replied to the email.",
+        "pronunciation": "PROMPT-lee",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Deliberately",
+        "meaning": "Intentionally, on purpose",
+        "meaningNepali": "जानीबुझी",
+        "sentence": "He deliberately chose the words to make an impact.",
+        "pronunciation": "dih-LIB-er-it-lee",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Counterintuitive",
+        "meaning": "Against what one would intuitively expect",
+        "meaningNepali": "विपरीत बुझाइ",
+        "sentence": "The solution was counterintuitive but effective.",
+        "pronunciation": "coun-ter-in-TUIT-iv",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Flounder",
+        "meaning": "Struggle clumsily or be in serious difficulty",
+        "meaningNepali": "छटपटाउनु",
+        "sentence": "Without his glasses, he floundered to read the sign.",
+        "pronunciation": "FLOUN-der",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Dissipate",
+        "meaning": "To scatter or disperse something until it disappears",
+        "meaningNepali": "बिखरिनु, फैलिनु",
+        "sentence": "The morning sun caused the fog to dissipate.",
+        "pronunciation": "DIS-i-payt",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Mundane",
+        "meaning": "Lacking interest or excitement; very ordinary",
+        "meaningNepali": "सामान्य",
+        "sentence": "She found her mundane tasks quite tedious.",
+        "pronunciation": "mun-DANE",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Nudge",
+        "meaning": "A light touch or push, often to draw attention",
+        "meaningNepali": "सामान्य धक्का",
+        "sentence": "He gave me a nudge when it was my turn to speak.",
+        "pronunciation": "NUDGE",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Numb",
+        "meaning": "Deprived of the power of sensation",
+        "meaningNepali": "सुन्निनु",
+        "sentence": "After sitting for hours, my legs were completely numb.",
+        "pronunciation": "NUMB",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Stink up",
+        "meaning": "To cause to stink or be filled with a stench",
+        "meaningNepali": "दुर्गन्ध फैलाउनु",
+        "sentence": "His wet shoes stunk up the whole room.",
+        "pronunciation": "STINK up",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Delude",
+        "meaning": "Mislead the mind or judgment of someone",
+        "meaningNepali": "भ्रममा पार्नु",
+        "sentence": "The magician deluded the audience with his tricks.",
+        "pronunciation": "dih-LOOD",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Remnant",
+        "meaning": "A small remaining quantity of something",
+        "meaningNepali": "अवशेष",
+        "sentence": "Only a remnant of the original structure was visible.",
+        "pronunciation": "REM-nant",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Lavish",
+        "meaning": "Sumptuously rich, elaborate, or luxurious",
+        "meaningNepali": "भव्य",
+        "sentence": "The wedding was a lavish affair; they lavished gifts on the bride and groom.",
+        "pronunciation": "LAV-ish",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Alleviate",
+        "meaning": "Make (suffering, deficiency, or a problem) less severe",
+        "meaningNepali": "कम गर्नु",
+        "sentence": "She took an aspirin to alleviate the pain.",
+        "pronunciation": "uh-LEE-vee-ayt",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Invincible",
+        "meaning": "Too powerful to be defeated or overcome",
+        "meaningNepali": "अजेय",
+        "sentence": "The team seemed invincible after winning all their matches.",
+        "pronunciation": "in-VIN-suh-buhl",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Inherently",
+        "meaning": "In a permanent, essential, or characteristic way",
+        "meaningNepali": "स्वाभाविक रूपमा",
+        "sentence": "There is nothing inherently wrong with his idea.",
+        "pronunciation": "in-HER-ent-lee",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Starve",
+        "meaning": "Suffer severely or die from hunger",
+        "meaningNepali": "भोकमरी गर्नु",
+        "sentence": "After the long hike, they felt like they were going to starve.",
+        "pronunciation": "STARV",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Ineffable",
+        "meaning": "Too great or extreme to be expressed in words",
+        "meaningNepali": "अवर्णनीय",
+        "sentence": "The beauty of the scene was ineffable.",
+        "pronunciation": "in-EF-uh-buhl",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Obscuration",
+        "meaning": "The action of making something unclear",
+        "meaningNepali": "अस्पष्टिकरण",
+        "sentence": "The dense fog caused obscuration of the mountain peak.",
+        "pronunciation": "ob-SKYOOR-ay-shuhn",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dispel",
+        "meaning": "To make something, especially a belief or feeling, go away",
+        "meaningNepali": "दूर गर्नु",
+        "sentence": "She tried to dispel the rumors about her departure.",
+        "pronunciation": "dis-PEL",
+        "partOfSpeech": "Verb"
+    }
+]
