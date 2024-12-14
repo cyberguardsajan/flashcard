@@ -1,0 +1,162 @@
+[
+    {
+        "word": "Faithfully",
+        "meaning": "In a loyal, constant, and steadfast manner",
+        "meaningNepali": "निष्ठापूर्वक",
+        "sentence": "She served the company faithfully for 20 years.",
+        "pronunciation": "FAYTH-ful-lee",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Altercation",
+        "meaning": "A noisy argument or disagreement",
+        "meaningNepali": "झगडा",
+        "sentence": "The two neighbors had an altercation over the boundary line.",
+        "pronunciation": "awl-ter-KAY-shuhn",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Concealing",
+        "meaning": "Hiding something from view or discovery",
+        "meaningNepali": "लुकाउने",
+        "sentence": "He was concealing evidence to avoid detection.",
+        "pronunciation": "kuhn-SEE-ling",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Plead",
+        "meaning": "To make an emotional or earnest appeal",
+        "meaningNepali": "गुहारेको",
+        "sentence": "She pleaded for mercy during the trial.",
+        "pronunciation": "PLEE-did",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Accused",
+        "meaning": "A person or group charged with or guilty of a crime or offense",
+        "meaningNepali": "आरोपित",
+        "sentence": "The accused was found guilty of theft.",
+        "pronunciation": "uh-KYOOZ-d",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Prosecutor",
+        "meaning": "A lawyer who represents the government in criminal cases",
+        "meaningNepali": "अभियोजक",
+        "sentence": "The prosecutor presented strong evidence against the defendant.",
+        "pronunciation": "PROS-e-kyoo-ter",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dismembered",
+        "meaning": "To cut or tear apart the limbs of a body",
+        "meaningNepali": "टुक्रा टुक्रा गर्नु",
+        "sentence": "The victim was found dismembered in the abandoned building.",
+        "pronunciation": "dis-MEM-berd",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Deploy",
+        "meaning": "To arrange strategically or to put into use",
+        "meaningNepali": "तैनात गर्नु",
+        "sentence": "The company will deploy new technologies to improve productivity.",
+        "pronunciation": "dih-PLOY",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Seditious",
+        "meaning": "Inciting or causing people to rebel against authority",
+        "meaningNepali": "विद्रोही",
+        "sentence": "The seditious pamphlets were banned by the government.",
+        "pronunciation": "si-DISH-uhs",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pathetic",
+        "meaning": "Arousing pity or sorrow; pitiful",
+        "meaningNepali": "दयनीय",
+        "sentence": "The pathetic performance left the audience feeling sorry for the actor.",
+        "pronunciation": "puh-THET-ik",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Compulsive",
+        "meaning": "Resulting from or relating to an irresistible urge",
+        "meaningNepali": "विवेकहीन",
+        "sentence": "His compulsive shopping habits were a source of concern.",
+        "pronunciation": "kuhm-PUL-siv",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Interpose",
+        "meaning": "To place or insert between one thing and another",
+        "meaningNepali": "बीचमा राख्नु",
+        "sentence": "She tried to interpose herself between the arguing friends.",
+        "pronunciation": "in-ter-POHZ",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Pertaining",
+        "meaning": "Relating to or concerning",
+        "meaningNepali": "सम्बन्धित",
+        "sentence": "The documents pertaining to the case were lost.",
+        "pronunciation": "pur-TAY-ning",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Obscene",
+        "meaning": "Offensive or disgusting by accepted standards of morality and decency",
+        "meaningNepali": "अश्लील",
+        "sentence": "The movie was rated R for its obscene content.",
+        "pronunciation": "uhb-SEEN",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Proliferation",
+        "meaning": "Rapid increase or spread",
+        "meaningNepali": "प्रसार",
+        "sentence": "The proliferation of technology has changed how we live.",
+        "pronunciation": "proh-lif-uh-RAY-shuhn",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Intimidate",
+        "meaning": "To frighten or make someone feel afraid",
+        "meaningNepali": "डराउन",
+        "sentence": "The bully tried to intimidate the younger kids.",
+        "pronunciation": "in-TIM-i-dayt",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Contagious",
+        "meaning": "Capable of being transmitted from one person to another",
+        "meaningNepali": "संक्रामक",
+        "sentence": "The flu is highly contagious during the winter months.",
+        "pronunciation": "kuhn-TAY-juhs",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Consent",
+        "meaning": "Permission or agreement",
+        "meaningNepali": "अनुमति",
+        "sentence": "She gave her consent for the medical procedure.",
+        "pronunciation": "kuhn-SENT",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Imminently",
+        "meaning": "About to happen very soon",
+        "meaningNepali": "नजिकै",
+        "sentence": "The storm is expected to hit imminently.",
+        "pronunciation": "IM-in-uhnt-lee",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Intrinsic",
+        "meaning": "Belonging naturally; essential or inherent",
+        "meaningNepali": "स्वाभाविक, मौलिक",
+        "sentence": "The value of the artwork is intrinsic to its historical significance.",
+        "pronunciation": "in-TRIN-sik",
+        "partOfSpeech": "Adjective"
+    }
+]
